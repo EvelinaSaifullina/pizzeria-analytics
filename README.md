@@ -54,6 +54,8 @@
 ### Страница 1: Общие показатели
 👉 [Дашборд.png ](https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/c642834b5d4c885c3ade83727f720be286711277/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4.png)
 
+Модель данных: https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/a730b5decb796409977dd8e38b2c093654c2da85/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20Power%20BI.png
+
 ## 📐 DAX-меры
 
 Все DAX-меры, использованные в дашборде, задокументированы в отдельном файле:

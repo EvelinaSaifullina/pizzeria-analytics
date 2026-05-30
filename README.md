@@ -60,4 +60,11 @@
 
 👉 https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/2c3ab7214edf30e0bfe8d9df53835dd484d40f17/DAX_measures.txt
 
+## 📄 SQL-скрипты
+https://github.com/EvelinaSaifullina/pizzeria-analytics/tree/a0a6da0dd43533f4f578598a1a198cc21134c72e/sql
 
+| Файл | Назначение |
+|------|------------|
+| `create_tables.sql` | Создание всех таблиц базы данных в SQLite|
+| `insert_data.sql` | Наполнение начальными данными |
+| `queries.sql` | Аналитические запросы для проверки метрик |

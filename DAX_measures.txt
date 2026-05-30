@@ -1,6 +1,6 @@
-# DAX-меры для дашборда пиццерии
+DAX-меры для дашборда пиццерии
 
-## KPI меры
+KPI меры
 
 1. Количество проданных позиций = SUM(orders[quantity])
 2. Общая выручка = FORMAT(SUMX(orders,RELATED(items[item_price])*orders[quantity]), "# ###р.")

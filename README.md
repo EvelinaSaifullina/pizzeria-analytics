@@ -14,6 +14,9 @@
 
 ---
 
+## 📌 Презентация: 
+https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/e3be5308d7c45cefc0026c6a3ca7290be637aef3/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BF%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D0%B8.pptx
+
 ## 🔧 Инструменты
 
 | Инструмент | Назначение |
@@ -55,6 +58,7 @@
 👉 [Дашборд.png ](https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/c642834b5d4c885c3ade83727f720be286711277/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4.png)
 
 Модель данных: https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/a730b5decb796409977dd8e38b2c093654c2da85/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20Power%20BI.png
+
 
 ## 📐 DAX-меры
 

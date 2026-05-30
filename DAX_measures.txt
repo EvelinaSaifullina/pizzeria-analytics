@@ -1,0 +1,21 @@
+# DAX-меры для дашборда пиццерии
+
+## KPI меры
+
+1. Количество проданных позиций = SUM(orders[quantity])
+2. Общая выручка = FORMAT(SUMX(orders,RELATED(items[item_price])*orders[quantity]), "# ###р.")
+3. Общая выручка(для расчета) = SUMX(orders, RELATED(items[item_price])*orders[quantity])
+4. Общее кол-во заказов = DISTINCTCOUNT(orders[order_id])
+5. Средний чек = FORMAT(DIVIDE([Общая выручка(для расчета)],[Общее кол-во заказов]),"#,##р.")
+6. Тип доставки = IF(orders[delivery] = 1, "Доставка", "Самовывоз")
+7. Час = HOUR(orders[created_at])
+8. День недели номер = WEEKDAY(orders[created_at], 2)
+9. День недели рус = SWITCH(
+    WEEKDAY(orders[created_at], 2),  -- 2 = неделя с понедельника
+    1, "Понедельник",
+    2, "Вторник",
+    3, "Среда",
+    4, "Четверг",
+    5, "Пятница",
+    6, "Суббота",
+    7, "Воскресенье")

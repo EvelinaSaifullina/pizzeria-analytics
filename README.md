@@ -14,10 +14,10 @@
 
 ---
 ## 🖼️ Дашборд в Power BI
-https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/e256776d7033559afd5d4eb42f97e4d88bcf7b35/%D0%9F%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D1%8F.pbix
+https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/722dc20ab48abe3ce238e85afd5db17616070479/Power%20BI/%D0%9F%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D1%8F.pbix
 
 ## 📌 Презентация: 
-https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/e3be5308d7c45cefc0026c6a3ca7290be637aef3/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BF%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D0%B8.pptx
+https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/722dc20ab48abe3ce238e85afd5db17616070479/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BF%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D0%B8.pptx
 
 ## 🔧 Инструменты
 
@@ -57,19 +57,22 @@ https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/e3be5308d7c45cefc00
 ## 🖼️ Скриншот дашборда
 
 ### Страница 1: Общие показатели
-👉 [Дашборд.png ](https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/c642834b5d4c885c3ade83727f720be286711277/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4.png)
 
-Модель данных: https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/a730b5decb796409977dd8e38b2c093654c2da85/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20Power%20BI.png
+Дашборд: 
+https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/722dc20ab48abe3ce238e85afd5db17616070479/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4.png
+
+Модель данных: 
+https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/722dc20ab48abe3ce238e85afd5db17616070479/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20Power%20BI.png
 
 
 ## 📐 DAX-меры
 
 Все DAX-меры, использованные в дашборде, задокументированы в отдельном файле:
 
-👉 https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/2c3ab7214edf30e0bfe8d9df53835dd484d40f17/DAX_measures.txt
+👉 https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/722dc20ab48abe3ce238e85afd5db17616070479/Power%20BI/DAX_measures.txt
 
 ## 📄 SQL-скрипты
-https://github.com/EvelinaSaifullina/pizzeria-analytics/tree/a0a6da0dd43533f4f578598a1a198cc21134c72e/sql
+https://github.com/EvelinaSaifullina/pizzeria-analytics/tree/722dc20ab48abe3ce238e85afd5db17616070479/sql
 
 | Файл | Назначение |
 |------|------------|

@@ -12,6 +12,9 @@
 
 **Результат:** Выявлены зоны роста, позволяющие увеличить выручку на 15–20% без привлечения новых клиентов.
 
+<img width="958" height="534" alt="image" src="https://github.com/user-attachments/assets/02cc338a-aa6d-4d03-9acf-492cd2d0a208" />
+
+
 ---
 ## 🖼️ Дашборд в Power BI
 https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/722dc20ab48abe3ce238e85afd5db17616070479/Power%20BI/%D0%9F%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D1%8F.pbix

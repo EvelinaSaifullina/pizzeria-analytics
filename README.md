@@ -22,6 +22,9 @@ https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/722dc20ab48abe3ce23
 ## 📌 Презентация: 
 https://github.com/EvelinaSaifullina/pizzeria-analytics/blob/722dc20ab48abe3ce238e85afd5db17616070479/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BF%D0%B8%D1%86%D1%86%D0%B5%D1%80%D0%B8%D0%B8.pptx
 
+<img width="813" height="456" alt="image" src="https://github.com/user-attachments/assets/3a088c19-1c25-4543-afbf-0ab828d3f5c0" />
+
+
 ## 🔧 Инструменты
 
 | Инструмент | Назначение |
